@@ -1,6 +1,6 @@
 ## Double Click on Avatar to Edit User
 
-![Double Click the Avatar to Edit](/btc_social_card/public/assets/images/desktop_profile_card.jpg "Double Click the Avatar to Edit")
+![Double Click the Avatar to Edit](https://bitbucket.org/dlipnraj/btc_social_card/raw/cae00580a0478e5a5e96b61022e5256e0d037e2c/public/assets/images/desktop_profile_card.JPG "Double Click the Avatar to Edit")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
