@@ -1,4 +1,6 @@
-## Double Click on Avatar to edit
+## Double Click on Avatar to Edit User
+
+![Double Click the Avatar to Edit](/public/assets/images/desktop_profile_card.jpg "Double Click the Avatar to Edit")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
