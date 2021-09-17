@@ -1,6 +1,13 @@
 ## Double Click on Avatar to Edit User
 
 ![Double Click the Avatar to Edit](https://bitbucket.org/dlipnraj/btc_social_card/raw/cae00580a0478e5a5e96b61022e5256e0d037e2c/public/assets/images/desktop_profile_card.JPG "Double Click the Avatar to Edit")
+![Edit User Information Component](https://bitbucket.org/dlipnraj/btc_social_card/raw/42cdb8550d45f68b166f3dfd4ebef094c7f92be5/public/assets/images/edit_profile_card1.JPG "Edit User Information Component")
+
+## Mobile Render
+
+![User Profile Card Mobile](https://bitbucket.org/dlipnraj/btc_social_card/raw/42cdb8550d45f68b166f3dfd4ebef094c7f92be5/public/assets/images/mobile_profile_card.JPG "User Profile Card Mobile")
+![User Profile Edit Card Mobile](https://bitbucket.org/dlipnraj/btc_social_card/raw/42cdb8550d45f68b166f3dfd4ebef094c7f92be5/public/assets/images/edit_profile_card.JPG "User Profile Edit Card Mobile")
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
